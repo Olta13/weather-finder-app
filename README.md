@@ -1,3 +1,11 @@
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Olta13/weather-finder-app/master/src/img/react-weather-app.JPG" width="500">
+  <img src="https://raw.githubusercontent.com/Olta13/weather-finder-app/master/src/img/react-weather-app-02.JPG" width="300" alt="screenshot weather app">
+</p>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
